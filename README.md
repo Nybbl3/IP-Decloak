@@ -1,7 +1,5 @@
 # IP-Decloaker
 <h1 align="center">
-  <br>
-
 </h1>
 
 <h4 align="center">A tool with attractive capabilities</h4>
